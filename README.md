@@ -1,8 +1,29 @@
 <h1 align="center">Hi 👋, I'm Yashaswi Hasarali</h1>
-<h3 align="center">Computer Science Graduate Student at Binghamton University, New York</h3>
+<h3 align="center">Computer Science Graduate Student at SUNY- Binghamton, Looking for Summer Internship | React Native | React JS | Flutter | Django | Android app development | Python | Kotlin</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<h5 align="left">
+
+I am currently a Graduate Student at Binghamton University pursuing Masters in Computer Science and looking for summer internship opportunities in software development in 2023. I am an experienced Full Stack Developer with a demonstrated history of working for 3+ years in the information technology and services industry. I am equipped with the following skill-set:
+
+📌 Programming Languages: Java, Python, Kotlin, Dart, C, C++
+
+📌 Databases: Postgress, MongoDB, MySQL, SQLite, Oracle, S3
+ 
+📌 Frameworks: Flutter, React JS, React Native, Express JS, Node JS, Django, Material UI, Jest
+ 
+📌 Web Frameworks: HTML, CSS, JavaScript
+ 
+📌 Cloud Services: Google Cloud Platform, Amazon Web Services
+ 
+📌 Version Control: Git, GitHub
+ 
+📌 Developer Tools: AWS, Eclipse, Visual Studio, Android Studio, GIT, Firebase, Docker, Microsoft Office, 
+ Sublime, Spyder, Postman, Jenkins Database
+
+You can connect with me via mail.
+Email: yhasara1@binghamton.edu
+</h5>
+<h5 align="left">Languages and Tools:</h5>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yashaswidhasarali&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="yashaswidhasarali" /></p>
 
