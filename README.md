@@ -26,7 +26,6 @@ Email: yhasara1@binghamton.edu
 <h5 align="left">Languages and Tools:</h5>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yashaswidhasarali&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="yashaswidhasarali" /></p>
-<h3 align="center">Computer Science Graduate Student at SUNY- Binghamton</h3>
 
 
 
