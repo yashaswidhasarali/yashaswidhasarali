@@ -3,7 +3,7 @@
 
 <h5 align="left">
 
-I am currently a Graduate Student at Binghamton University pursuing Masters's in Computer Science and looking for summer internship opportunities in software development in 2023. I am an experienced Full Stack Developer with a demonstrated history of working for 3+ years in the information technology and services industry. I am equipped with the following skill set:
+I am currently a Graduate Student at Binghamton University pursuing master's in Computer Science and looking for summer internship opportunities in software development in 2023. I am an experienced Full Stack Developer with a demonstrated history of working for 3+ years in the information technology and services industry. I am equipped with the following skill set:
 
 📌 Programming Languages: Java, Python, Kotlin, Dart, C, C++
 
@@ -21,7 +21,7 @@ I am currently a Graduate Student at Binghamton University pursuing Masters's in
  Sublime, Spyder, Postman, Jenkins Database
 
 You can connect with me via mail.
-Email: yhasara1@binghamton.edu
+Email: yashaswihasarali@gmail.com
 </h5>
 <h5 align="left">Languages and Tools:</h5>
 
