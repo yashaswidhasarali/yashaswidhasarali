@@ -8,7 +8,7 @@
 
 I am a Graduate Student at Binghamton University pursuing a master's in Computer Science and an Associate Machine Learning engineer at Grantify Inc., looking for Full-time opportunities in software development. I am an experienced Full Stack Developer with a demonstrated history of working for 3+ years in the information technology and services industry.
 
-Email: yashaswihasarali@gmail.com
+Email: yhasara1@binghamton.edu
 </h5>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yashaswidhasarali&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="yashaswidhasarali" /></p>
