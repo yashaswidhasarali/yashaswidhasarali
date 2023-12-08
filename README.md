@@ -6,7 +6,7 @@
 
 <h5 align="left">
 
-I am a Graduate Student at Binghamton University pursuing a master's in Computer Science and an Associate Machine Learning engineer at Grantify Inc., looking for Full-time opportunities in software development. I am an experienced Full Stack Developer with a demonstrated history of working for 3+ years in the information technology and services industry.
+Organized and self-motivated software engineer graduate with 4+ years combined internship and professional experience. Fluent in Javascript, Python, C++ and Java programming languages. Worked extensively as a Full Stack Software Developer (Javascript, ReactJS, Flutter, Python, Django, React Native, Kotlin) and Machine Learning Engineer (OpenAI, LLM, AWS, Langchain, Pinecone). Excellent communicator and sound decision-maker with proven relationship-building skills. Frequently chosen for challenging assignments based on past performance. Seeking a role to apply exceptional ability to switch between programming languages and frameworks as needed, while working quickly and independently
 
 Email: yhasara1@binghamton.edu
 </h5>
