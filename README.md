@@ -5,9 +5,18 @@
 
 <h5 align="left">
 
-Organized and self-motivated software engineer graduate with 4+ years combined internship and professional experience. Fluent in Javascript, Python, C++ and Java programming languages. Worked extensively as a Full Stack Software Developer (Javascript, ReactJS, Flutter, Python, Django, React Native, Kotlin) and Machine Learning Engineer (OpenAI, LLM, AWS, Langchain, Pinecone). Excellent communicator and sound decision-maker with proven relationship-building skills. Frequently chosen for challenging assignments based on past performance. Seeking a role to apply exceptional ability to switch between programming languages and frameworks as needed, while working quickly and independently
+Full Stack Engineer with 5+ years of experience developing scalable End-to-end business applications and AI solutions.
+Proficient in building cloud-based applications and Generative AI systems using React, TypeScript, Python, FastAPI,
+AWS, and cutting-edge LLMs (OpenAI, LangChain, RAG, ClaudeAI).
 
-Email: yhasara1@binghamton.edu
+Strong track record as a core contributor at Grantify, delivering AI-powered funding platforms, document intelligence
+pipelines, and robust microservices. Skilled in both backend (APIs, microservices, data processing) and frontend
+(modern UI frameworks), translating business needs into effective technical solutions.
+
+Adaptable, detail-oriented team player who thrives in fast-paced environments and is committed to code quality, clear
+communication, and ongoing learning.
+
+Email: yashaswihasarali@gmail.com
 </h5>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yashaswidhasarali&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="yashaswidhasarali" /></p>
