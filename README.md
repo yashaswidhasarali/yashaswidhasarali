@@ -46,6 +46,44 @@
 - Delivered React-based onboarding flows, user dashboards, internal sales tools, analytics integrations, and end-to-end product experiences
 - Built ingestion and automation pipelines for scraping, normalization, deduplication, alerting, and downstream business workflows
 
+## GitHub Analytics
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <strong>Profile Summary</strong><br/><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashaswidhasarali&theme=github_dark" alt="GitHub profile summary" width="95%" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <strong>Contribution Streak</strong><br/><br/>
+      <img src="https://streak-stats.demolab.com?user=yashaswidhasarali&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" width="70%" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <strong>Recent Contribution Activity</strong><br/><br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashaswidhasarali&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&custom_title=Recent%20Contribution%20Activity" alt="Recent contribution activity" width="95%" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <strong>Contribution Totals by Year</strong><br/><br/>
+      <img src="./generated/github-contributions-by-year.svg" alt="Contribution totals by year" width="95%" />
+    </td>
+  </tr>
+</table>
+
 ## Experience
 
 ### <img src="./icons/grantify.png" alt="Grantify logo" width="28" height="28" /> `Grantify` | Full Stack Engineer
@@ -87,44 +125,6 @@
 - Implemented advanced application features and algorithms that improved responsiveness, stability, and product usability across web and mobile builds
 - Mentored junior engineers, promoted code quality and collaborative problem-solving, and contributed to stronger delivery standards across the team
 - Continuously evaluated emerging tools and frameworks and integrated relevant innovations into product engineering and platform workflows
-
-## GitHub Analytics
-
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <strong>Profile Summary</strong><br/><br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashaswidhasarali&theme=github_dark" alt="GitHub profile summary" width="95%" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <strong>Contribution Streak</strong><br/><br/>
-      <img src="https://streak-stats.demolab.com?user=yashaswidhasarali&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" width="70%" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <strong>Recent Contribution Activity</strong><br/><br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashaswidhasarali&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&custom_title=Recent%20Contribution%20Activity" alt="Recent contribution activity" width="95%" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <strong>Contribution Totals by Year</strong><br/><br/>
-      <img src="./generated/github-contributions-by-year.svg" alt="Contribution totals by year" width="95%" />
-    </td>
-  </tr>
-</table>
 
 ## Tech Stack
 
