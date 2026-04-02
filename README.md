@@ -21,7 +21,7 @@
   I build AI-powered SaaS products and intelligent product features with <strong>React</strong>, <strong>Node.js</strong>, <strong>Python</strong>, <strong>AWS</strong>, and modern <strong>LLM</strong> tooling.
 </p>
 
-## Snapshot
+## At a Glance
 
 - 5+ years building AI-powered SaaS products, MVPs, internal tools, and customer-facing platforms
 - Core contributor at `Grantify` across funding intelligence, onboarding flows, dashboards, and automation
@@ -46,19 +46,95 @@
 - Delivered React-based onboarding flows, user dashboards, internal sales tools, analytics integrations, and end-to-end product experiences
 - Built ingestion and automation pipelines for scraping, normalization, deduplication, alerting, and downstream business workflows
 
-## Featured Product Builds
+## Experience
+
+### `Grantify` | Full Stack Engineer
+`May 2023 - Present` | `San Jose, CA`
+
+- Built AI-powered SaaS features for funding intelligence, document parsing, and internal operations across product, platform, and data workflows
+- Shipped scalable backend systems and event-driven automation on `AWS` for ingestion, matching, notifications, and orchestration
+- Delivered React applications and internal dashboards using `React`, `TypeScript`, `Vite`, `TanStack`, `Tailwind CSS`, and `tRPC`
+
+### `SUNY Research Foundation` | Senior Research Aide
+`Mar 2023 - May 2024` | `Binghamton, NY`
+
+- Developed and maintained data acquisition and processing workflows using `Bonsai` and connected hardware systems
+- Supported reliable data capture, transformation, validation, and reproducibility for downstream analysis
+
+### `Binghamton University` | Graduate Teaching Assistant
+`Sep 2022 - May 2023` | `Binghamton, NY`
+
+- Guided students in Python programming, debugging, and problem solving
+- Supported course delivery, grading, office hours, and technical feedback for a class of 70 students
+
+### `Exathought Technology Pvt Ltd` | Software Engineer
+`Jul 2019 - Jul 2022` | `Bengaluru, India`
+
+- Built 5 MVP SaaS and mobile products using `React.js`, `React Native`, and `Flutter`
+- Designed scalable application structures, database schemas, and maintainable engineering workflows
+- Mentored junior engineers and contributed to delivery standards, product quality, and team collaboration
+
+## GitHub Analytics
 
 <table>
   <tr>
-    <td width="120" valign="top">
-      <strong>Grantify</strong>
-    </td>
-    <td valign="top">
-      <strong>Funding and workflow SaaS platform</strong><br/>
-      Built customer onboarding, company and project profiling, dashboards, and internal sales tooling with <code>React</code>, <code>TypeScript</code>, and modern data-fetching patterns.<br/>
-      Scaled backend orchestration for ingestion, matching, notifications, and automation on <code>AWS</code>.
+    <td align="center" width="100%">
+      <strong>Profile Summary</strong><br/><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashaswidhasarali&theme=github_dark" alt="GitHub profile summary" width="95%" />
     </td>
   </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <strong>Contribution Streak</strong><br/><br/>
+      <img src="https://streak-stats.demolab.com?user=yashaswidhasarali&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" width="70%" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <strong>Recent Contribution Activity</strong><br/><br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashaswidhasarali&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&custom_title=Recent%20Contribution%20Activity" alt="Recent contribution activity" width="95%" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <strong>Contribution Totals by Year</strong><br/><br/>
+      <img src="./generated/github-contributions-by-year.svg" alt="Contribution totals by year" width="95%" />
+    </td>
+  </tr>
+</table>
+
+## Tech Stack
+
+**Languages**  
+`Python` `JavaScript` `TypeScript` `Java` `Kotlin` `Dart` `SQL`
+
+**AI and Data**  
+`OpenAI` `Claude` `LangChain` `LangGraph` `Pinecone` `Langfuse` `RAG` `Prompt Engineering` `Semantic Search` `OCR` `ETL` `Apache Airflow` `Pandas` `NumPy`
+
+**Frontend**  
+`React` `React Native` `Flutter` `Next.js` `Vite` `Tailwind CSS` `TanStack Query` `TanStack Table` `TanStack Form` `Zod` `Redux`
+
+**Backend and APIs**  
+`Python` `Node.js` `Express.js` `Django` `tRPC` `REST APIs` `GraphQL` `PostgreSQL` `MySQL` `MongoDB` `DynamoDB` `BigQuery` `Elasticsearch`
+
+**Cloud and DevOps**  
+`AWS Lambda` `ECS` `CDK` `SQS` `Cognito` `API Gateway` `CloudWatch` `IAM` `CloudFront` `Docker` `GitHub Actions` `Jenkins` `CI/CD` `Firebase`
+
+**Testing and Quality**  
+`Playwright` `Pytest` `Jest` `Vitest` `JUnit` `MyPy` `TDD`
+
+## Featured Product Builds
+
+<table>
   <tr>
     <td width="120" valign="top">
       <img src="./icons/participaction.png" alt="ParticipACTION logo" width="110" />
@@ -110,76 +186,6 @@
     </td>
   </tr>
 </table>
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashaswidhasarali&theme=github_dark" alt="GitHub profile summary" width="95%" />
-</p>
-
-| Repo Language Mix | Commit Language Mix |
-| --- | --- |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashaswidhasarali&theme=github_dark" alt="Repo language mix" width="100%" /> | <img src="./generated/github-languages-by-commit.svg" alt="Commit language mix" width="100%" /> |
-
-| Contribution Streak | Productive Time |
-| --- | --- |
-| <img src="https://streak-stats.demolab.com?user=yashaswidhasarali&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" width="100%" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashaswidhasarali&theme=github_dark&utcOffset=-8" alt="Productive time" width="100%" /> |
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashaswidhasarali&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&custom_title=Contribution%20Graph%20(2020%20to%20Current)" alt="Contribution graph" width="95%" />
-</p>
-
-<p align="center">
-  <img src="./generated/github-contributions-by-year.svg" alt="Contribution totals by year" width="95%" />
-</p>
-
-## Experience
-
-### `Grantify` | Full Stack Engineer
-`May 2023 - Present` | `San Jose, CA`
-
-- Built AI-powered SaaS features for funding intelligence, document parsing, and internal operations across product, platform, and data workflows
-- Shipped scalable backend systems and event-driven automation on `AWS` for ingestion, matching, notifications, and orchestration
-- Delivered React applications and internal dashboards using `React`, `TypeScript`, `Vite`, `TanStack`, `Tailwind CSS`, and `tRPC`
-
-### `SUNY Research Foundation` | Senior Research Aide
-`Mar 2023 - May 2024` | `Binghamton, NY`
-
-- Developed and maintained data acquisition and processing workflows using `Bonsai` and connected hardware systems
-- Supported reliable data capture, transformation, validation, and reproducibility for downstream analysis
-
-### `Binghamton University` | Graduate Teaching Assistant
-`Sep 2022 - May 2023` | `Binghamton, NY`
-
-- Guided students in Python programming, debugging, and problem solving
-- Supported course delivery, grading, office hours, and technical feedback for a class of 70 students
-
-### `Exathought Technology Pvt Ltd` | Software Engineer
-`Jul 2019 - Jul 2022` | `Bengaluru, India`
-
-- Built 5 MVP SaaS and mobile products using `React.js`, `React Native`, and `Flutter`
-- Designed scalable application structures, database schemas, and maintainable engineering workflows
-- Mentored junior engineers and contributed to delivery standards, product quality, and team collaboration
-
-## Tech Stack
-
-**Languages**  
-`Python` `JavaScript` `TypeScript` `Java` `Kotlin` `Dart` `SQL`
-
-**AI and Data**  
-`OpenAI` `Claude` `LangChain` `LangGraph` `Pinecone` `Langfuse` `RAG` `Prompt Engineering` `Semantic Search` `OCR` `ETL` `Apache Airflow` `Pandas` `NumPy`
-
-**Frontend**  
-`React` `React Native` `Flutter` `Next.js` `Vite` `Tailwind CSS` `TanStack Query` `TanStack Table` `TanStack Form` `Zod` `Redux`
-
-**Backend and APIs**  
-`Python` `Node.js` `Express.js` `Django` `tRPC` `REST APIs` `GraphQL` `PostgreSQL` `MySQL` `MongoDB` `DynamoDB` `BigQuery` `Elasticsearch`
-
-**Cloud and DevOps**  
-`AWS Lambda` `ECS` `CDK` `SQS` `Cognito` `API Gateway` `CloudWatch` `IAM` `CloudFront` `Docker` `GitHub Actions` `Jenkins` `CI/CD` `Firebase`
-
-**Testing and Quality**  
-`Playwright` `Pytest` `Jest` `Vitest` `JUnit` `MyPy` `TDD`
 
 ## Education
 
