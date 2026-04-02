@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  I build AI-powered SaaS products and intelligent product features with <strong>React</strong>, <strong>Node.js</strong>, <strong>Python</strong>, <strong>AWS</strong>, and modern <strong>LLM</strong> tooling.
+  I build AI-powered SaaS products with <strong>LLM</strong>, <strong>LangGraph</strong>, <strong>Python</strong>, <strong>React</strong>, and <strong>AWS</strong>.
 </p>
 
 ## At a Glance
@@ -149,6 +149,46 @@
 ## Featured Product Builds
 
 <table>
+  <tr>
+    <td width="120" valign="top">
+      <img src="./icons/grantify.png" alt="Grantify logo" width="96" />
+    </td>
+    <td valign="top">
+      <strong>AI Document Parsing</strong> · AI module for client document understanding<br/>
+      Reads client documents and answers questions grounded in uploaded content.<br/>
+      <code>OpenAI API</code><code>LangGraph</code> <code>LangChain</code> <code>Langfuse</code> <code>RAG</code> <code>Pinecone</code> <code>Python</code> <code>AWS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" valign="top">
+      <img src="./icons/grantify.png" alt="Grantify logo" width="96" />
+    </td>
+    <td valign="top">
+      <strong>Call Transcription</strong> · AI module for automated call transcription<br/>
+      Processes call recordings and generates searchable transcripts automatically.<br/>
+      <code>AssemblyAI</code> <code>Zoom Recordings</code> <code>Pinecone</code> <code>AWS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" valign="top">
+      <img src="./icons/grantify.png" alt="Grantify logo" width="96" />
+    </td>
+    <td valign="top">
+      <strong>AI Writing Assistant</strong> · AI module for guided answers and rephrasing<br/>
+      Helps users rephrase responses, retrieve context, and interact with domain knowledge like a chat assistant.<br/>
+      <code>OpenAI API</code> <code>LangChain</code> <code>Langfuse</code> <code>RAG</code> <code>Pinecone</code> <code>Python</code> <code>AWS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" valign="top">
+      <img src="./icons/grantify.png" alt="Grantify logo" width="96" />
+    </td>
+    <td valign="top">
+      <strong>Funding Services</strong> · SaaS application for finding and matching funding opportunities<br/>
+      Helps users discover relevant funding opportunities and match against business context.<br/>
+      <code>OpenAI</code> <code>Perplexity API</code> <code>React</code> <code>Node.js</code> <code>Python</code> <code>AWS</code>
+    </td>
+  </tr>
   <tr>
     <td width="120" valign="top">
       <img src="./icons/participaction.png" alt="ParticipACTION logo" width="110" />
