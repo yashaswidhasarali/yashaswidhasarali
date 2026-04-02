@@ -53,7 +53,12 @@
 - Helped scale backend orchestration for ingestion, matching, notifications, and automation on `AWS`
 - Contributed across product workflows that supported funding intelligence, automation, and platform operations
 
+<p>
+  <img src="./icons/Screenshot%202026-04-01%20at%208.38.13%E2%80%AFPM.png" alt="ParticipACTION logo" width="220" />
+</p>
+
 ### `ParticipACTION` | Fitness challenge Android application
+- Link: [Website](https://www.participaction.com/)
 - Upgraded an Android `Kotlin` app with new challenge flows and integrations for health and fitness tracking
 - Improved product responsiveness and user experience across feature expansion work
 
@@ -63,14 +68,17 @@
 - Integrated Firebase Crashlytics, Analytics, SFMC notifications, deep linking, and Google Pay
 
 ### `SEIU Healthcare Canada` | Community and healthcare mobile application
+- Link: [Google Play](https://play.google.com/store/apps/details?id=ca.seiuhealthcare.community)
 - Designed and developed the user-facing `React Native` experience for a healthcare community app
 - Used `Python`, `Django`, `SES`, and `Elasticsearch` integrations to support notifications, responsiveness, and search
 
 ### `Gigmonk` | Marketplace and map-based experience
+- Link: [Website](https://gigmonk.com/#/)
 - Built and tested multiple `React.js` interfaces and connected backend APIs for a consumer-facing web app
 - Integrated `MongoDB` search and Mapbox-powered location experiences for place discovery and tracking
 
 ### `Zixa` | Mobile application and identity features
+- Link: [Google Play](https://play.google.com/store/apps/details?id=com.exathought.ZIXA)
 - Worked on account creation and sign-in using `AWS Cognito` and added document upload, chat, and history flows using `Flutter`
 - Supported Android deployment and release work for a smoother production rollout
 
