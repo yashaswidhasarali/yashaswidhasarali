@@ -46,41 +46,70 @@
 - Delivered React-based onboarding flows, user dashboards, internal sales tools, analytics integrations, and end-to-end product experiences
 - Built ingestion and automation pipelines for scraping, normalization, deduplication, alerting, and downstream business workflows
 
-## Selected Product Work
+## Featured Product Builds
 
-### `Grantify` | Funding and workflow SaaS platform
-- Delivered customer onboarding, company and project profiling, dashboards, and internal sales tooling using `React`, `TypeScript`, and modern data-fetching patterns
-- Helped scale backend orchestration for ingestion, matching, notifications, and automation on `AWS`
-- Contributed across product workflows that supported funding intelligence, automation, and platform operations
-
-<p>
-  <img src="./icons/Screenshot%202026-04-01%20at%208.38.13%E2%80%AFPM.png" alt="ParticipACTION logo" width="220" />
-</p>
-
-### `ParticipACTION` | Fitness challenge Android application
-- Link: [Website](https://www.participaction.com/)
-- Upgraded an Android `Kotlin` app with new challenge flows and integrations for health and fitness tracking
-- Improved product responsiveness and user experience across feature expansion work
-
-### `Unity - Hard Rock Cafe` | Loyalty and rewards mobile experience
-- Link: [Google Play](https://play.google.com/store/apps/details?id=com.shre.unitymobile.prod&hl=en_US)
-- Spearheaded a `React Native` application for loyalty workflows and user engagement
-- Integrated Firebase Crashlytics, Analytics, SFMC notifications, deep linking, and Google Pay
-
-### `SEIU Healthcare Canada` | Community and healthcare mobile application
-- Link: [Google Play](https://play.google.com/store/apps/details?id=ca.seiuhealthcare.community)
-- Designed and developed the user-facing `React Native` experience for a healthcare community app
-- Used `Python`, `Django`, `SES`, and `Elasticsearch` integrations to support notifications, responsiveness, and search
-
-### `Gigmonk` | Marketplace and map-based experience
-- Link: [Website](https://gigmonk.com/#/)
-- Built and tested multiple `React.js` interfaces and connected backend APIs for a consumer-facing web app
-- Integrated `MongoDB` search and Mapbox-powered location experiences for place discovery and tracking
-
-### `Zixa` | Mobile application and identity features
-- Link: [Google Play](https://play.google.com/store/apps/details?id=com.exathought.ZIXA)
-- Worked on account creation and sign-in using `AWS Cognito` and added document upload, chat, and history flows using `Flutter`
-- Supported Android deployment and release work for a smoother production rollout
+<table>
+  <tr>
+    <td width="120" valign="top">
+      <strong>Grantify</strong>
+    </td>
+    <td valign="top">
+      <strong>Funding and workflow SaaS platform</strong><br/>
+      Built customer onboarding, company and project profiling, dashboards, and internal sales tooling with <code>React</code>, <code>TypeScript</code>, and modern data-fetching patterns.<br/>
+      Scaled backend orchestration for ingestion, matching, notifications, and automation on <code>AWS</code>.
+    </td>
+  </tr>
+  <tr>
+    <td width="120" valign="top">
+      <img src="./icons/participaction.png" alt="ParticipACTION logo" width="110" />
+    </td>
+    <td valign="top">
+      <strong>ParticipACTION</strong> · Fitness challenge Android application<br/>
+      <a href="https://www.participaction.com/">Website</a><br/>
+      Upgraded an Android <code>Kotlin</code> app with new challenge flows and fitness tracking integrations, improving responsiveness and overall product UX.
+    </td>
+  </tr>
+  <tr>
+    <td width="120" valign="top">
+      <img src="./icons/UnityHardRock.png" alt="Unity by Hard Rock logo" width="110" />
+    </td>
+    <td valign="top">
+      <strong>Unity - Hard Rock Cafe</strong> · Loyalty and rewards mobile experience<br/>
+      <a href="https://play.google.com/store/apps/details?id=com.shre.unitymobile.prod&hl=en_US">Google Play</a><br/>
+      Spearheaded a <code>React Native</code> application for loyalty workflows and user engagement, with Crashlytics, Analytics, SFMC notifications, deep linking, and Google Pay.
+    </td>
+  </tr>
+  <tr>
+    <td width="120" valign="top">
+      <img src="./icons/SEIU.png" alt="SEIU Healthcare Canada logo" width="96" />
+    </td>
+    <td valign="top">
+      <strong>SEIU Healthcare Canada</strong> · Community and healthcare mobile application<br/>
+      <a href="https://play.google.com/store/apps/details?id=ca.seiuhealthcare.community">Google Play</a><br/>
+      Designed and developed the user-facing <code>React Native</code> experience, with <code>Python</code>, <code>Django</code>, <code>SES</code>, and <code>Elasticsearch</code> integrations for notifications and search.
+    </td>
+  </tr>
+  <tr>
+    <td width="120" valign="top">
+      <strong>Gigmonk</strong>
+    </td>
+    <td valign="top">
+      <strong>Marketplace and map-based web experience</strong><br/>
+      <a href="https://gigmonk.com/#/">Website</a><br/>
+      Built multiple <code>React.js</code> interfaces and connected backend APIs, adding <code>MongoDB</code> search and Mapbox-powered location experiences.
+    </td>
+  </tr>
+  <tr>
+    <td width="120" valign="top">
+      <img src="./icons/Zixa.png" alt="Zixa logo" width="96" />
+    </td>
+    <td valign="top">
+      <strong>Zixa</strong> · Mobile application and identity features<br/>
+      <a href="https://play.google.com/store/apps/details?id=com.exathought.ZIXA">Google Play</a><br/>
+      Worked on account creation and sign-in using <code>AWS Cognito</code> and added document upload, chat, and history flows with <code>Flutter</code>.
+    </td>
+  </tr>
+</table>
 
 ## GitHub Analytics
 
