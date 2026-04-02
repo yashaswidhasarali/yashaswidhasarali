@@ -1,6 +1,57 @@
 {
   "username": "yashaswidhasarali",
-  "generated_at": "2026-04-02T00:14:37.836361+00:00",
-  "status": "waiting_for_github_token",
-  "message": "Add PROFILE_GH_TOKEN as a GitHub Actions secret, then rerun the workflow."
+  "generated_at": "2026-04-02T00:45:22.817429+00:00",
+  "from_year": 2020,
+  "to_year": 2026,
+  "summary": {
+    "repositories_with_commit_activity": 4,
+    "total_commit_contributions_observed": 30
+  },
+  "yearly_contributions": {
+    "2020": 161,
+    "2021": 279,
+    "2022": 163,
+    "2023": 134,
+    "2024": 35,
+    "2025": 117,
+    "2026": 143
+  },
+  "languages_weighted_by_commit_activity": [
+    {
+      "language": "Python",
+      "score": 26.6444
+    },
+    {
+      "language": "Jupyter Notebook",
+      "score": 2.0
+    },
+    {
+      "language": "Java",
+      "score": 0.4667
+    },
+    {
+      "language": "Vue",
+      "score": 0.445
+    },
+    {
+      "language": "TypeScript",
+      "score": 0.4216
+    },
+    {
+      "language": "HTML",
+      "score": 0.0185
+    },
+    {
+      "language": "JavaScript",
+      "score": 0.0036
+    }
+  ],
+  "methodology": {
+    "description": "Repo language bytes are weighted by commit contribution counts per repository.",
+    "notes": [
+      "This is an approximation, not exact changed lines by language.",
+      "Private repositories are included only when the token can access them.",
+      "Public artifacts intentionally omit repository names to avoid leaking private org details."
+    ]
+  }
 }
