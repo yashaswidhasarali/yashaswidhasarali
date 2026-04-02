@@ -1,5 +1,5 @@
 <h1 align="center">Yashaswi Hasarali</h1>
-<h3 align="center">Full Stack Engineer | AI Systems Engineer</h3>
+<h3 align="center">AI Engineer | Full Stack Product Engineer for SaaS Platforms</h3>
 
 <p align="center">
   <a href="https://github.com/yashaswidhasarali">
@@ -18,33 +18,61 @@
 </p>
 
 <p align="center">
-  I build production-ready AI and product systems with <strong>React</strong>, <strong>TypeScript</strong>, <strong>Python</strong>, <strong>FastAPI</strong>, <strong>AWS</strong>, and modern <strong>LLM</strong> tooling.
+  I build AI-powered SaaS products and intelligent product features with <strong>React</strong>, <strong>Node.js</strong>, <strong>Python</strong>, <strong>AWS</strong>, and modern <strong>LLM</strong> tooling.
 </p>
 
 ## Snapshot
 
-- 5+ years building full-stack products, cloud-native systems, and AI workflows
-- Core contributor at `Grantify` across document intelligence, matching engines, dashboards, and automation
-- Strong across `frontend`, `backend`, `data pipelines`, `APIs`, and `LLM application engineering`
+- 5+ years building AI-powered SaaS products, MVPs, internal tools, and customer-facing platforms
+- Core contributor at `Grantify` across funding intelligence, onboarding flows, dashboards, and automation
+- Strong across product engineering, backend systems, data workflows, and LLM application development
 
 ## What I Work On
 
-- AI document parsing and RAG systems
-- Full-stack SaaS platforms and internal dashboards
-- Event-driven backend services on AWS
-- Workflow automation, ingestion pipelines, and data products
+- AI modules and intelligent product features for SaaS platforms
+- Full-stack SaaS products and internal dashboards
+- AI-assisted user experiences and workflow automation
+- Scalable backend systems on AWS
+- Data ingestion, matching, and intelligence platforms
 
 ## Highlights
 
-- Built an end-to-end document parsing and retrieval pipeline using `LangChain`, `LangGraph`, `OpenAI`, and `Pinecone`, enabling semantic retrieval and context-aware question answering across 12+ file formats
-- Deployed serverless AI workflows on `AWS Lambda` with `SQS`-based bulk processing for scalable document intelligence operations
-- Led prompt engineering and model iteration for production AI systems, improving answer quality and reducing hallucinations through benchmark-driven evaluation
-- Integrated `Langfuse` for trace-level observability, prompt versioning, cost tracking, and faster production debugging
-- Developed a queue-based call transcription pipeline for Zoom recordings using `AssemblyAI` and downstream AI parsing workflows
-- Built AI-assisted writing tools using streaming chat completions and structured prompt orchestration for grant application generation
-- Contributed to a funding-matching platform using `FastAPI`, `PostgreSQL`, `ECS Fargate`, `Lambda`, and `CDK`, combining rule-based filtering with LLM scoring
-- Delivered a full-stack React platform with onboarding flows, internal sales dashboards, authenticated routes, analytics, scheduling integrations, and E2E coverage
-- Built and maintained ETL and ingestion systems with scraping, normalization, deduplication, alerting, and workflow orchestration
+- Built AI modules for production SaaS products using `LangChain`, `LangGraph`, `OpenAI`, and `Pinecone`, including semantic retrieval, intelligent parsing, and context-aware answers across 12+ file formats
+- Shipped AI-powered workflows on `AWS` with queue-based processing and serverless orchestration for scalable product experiences
+- Led prompt engineering and model iteration for live AI features, improving answer quality and reducing hallucinations through benchmark-driven evaluation
+- Integrated `Langfuse` for observability, prompt versioning, and faster iteration on customer-facing AI systems
+- Developed AI-assisted writing and transcription workflows using `OpenAI` and `AssemblyAI` for real product use cases
+- Contributed to a funding intelligence platform combining backend services, LLM scoring, business rules, and product UX to rank relevant opportunities
+- Delivered React-based onboarding flows, user dashboards, internal sales tools, analytics integrations, and end-to-end product experiences
+- Built ingestion and automation pipelines for scraping, normalization, deduplication, alerting, and downstream business workflows
+
+## Selected Product Work
+
+### `Grantify` | Funding and workflow SaaS platform
+- Delivered customer onboarding, company and project profiling, dashboards, and internal sales tooling using `React`, `TypeScript`, and modern data-fetching patterns
+- Helped scale backend orchestration for ingestion, matching, notifications, and automation on `AWS`
+- Contributed across product workflows that supported funding intelligence, automation, and platform operations
+
+### `ParticipACTION` | Fitness challenge Android application
+- Upgraded an Android `Kotlin` app with new challenge flows and integrations for health and fitness tracking
+- Improved product responsiveness and user experience across feature expansion work
+
+### `Unity - Hard Rock Cafe` | Loyalty and rewards mobile experience
+- Link: [Google Play](https://play.google.com/store/apps/details?id=com.shre.unitymobile.prod&hl=en_US)
+- Spearheaded a `React Native` application for loyalty workflows and user engagement
+- Integrated Firebase Crashlytics, Analytics, SFMC notifications, deep linking, and Google Pay
+
+### `SEIU Healthcare Canada` | Community and healthcare mobile application
+- Designed and developed the user-facing `React Native` experience for a healthcare community app
+- Used `Python`, `Django`, `SES`, and `Elasticsearch` integrations to support notifications, responsiveness, and search
+
+### `Gigmonk` | Marketplace and map-based experience
+- Built and tested multiple `React.js` interfaces and connected backend APIs for a consumer-facing web app
+- Integrated `MongoDB` search and Mapbox-powered location experiences for place discovery and tracking
+
+### `Zixa` | Mobile application and identity features
+- Worked on account creation and sign-in using `AWS Cognito` and added document upload, chat, and history flows using `Flutter`
+- Supported Android deployment and release work for a smoother production rollout
 
 ## GitHub Analytics
 
@@ -52,41 +80,30 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashaswidhasarali&theme=github_dark" alt="GitHub profile summary" width="95%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashaswidhasarali&theme=github_dark" alt="Repos per language" width="47%" />
-  <img src="./generated/github-languages-by-commit.svg" alt="Languages weighted by commit activity" width="47%" />
-</p>
+| Repo Language Mix | Commit Language Mix |
+| --- | --- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashaswidhasarali&theme=github_dark" alt="Repo language mix" width="100%" /> | <img src="./generated/github-languages-by-commit.svg" alt="Commit language mix" width="100%" /> |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashaswidhasarali&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" width="60%" />
-</p>
+| Contribution Streak | Productive Time |
+| --- | --- |
+| <img src="https://streak-stats.demolab.com?user=yashaswidhasarali&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" width="100%" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashaswidhasarali&theme=github_dark&utcOffset=-8" alt="Productive time" width="100%" /> |
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashaswidhasarali&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true&custom_title=Contribution%20Graph%20(2020%20to%20Current)" alt="Contribution graph" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashaswidhasarali&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" width="95%" />
-</p>
-
-## Contribution Note
-
-The public GitHub widgets above are useful for profile-level activity, but the commit-language widget was replaced with a custom chart generated from the GitHub API because the public version was not reliable for this profile.
-
-<p align="center">
   <img src="./generated/github-contributions-by-year.svg" alt="Contribution totals by year" width="95%" />
 </p>
-
-The custom charts in `generated/` are built from GitHub API data from `2020` onward and can include org/private repository activity when the token has access.
 
 ## Experience
 
 ### `Grantify` | Full Stack Engineer
 `May 2023 - Present` | `San Jose, CA`
 
-- Built AI-powered funding, document intelligence, and internal operations products across frontend, backend, and infrastructure
-- Shipped serverless workflows with `Lambda`, `SQS`, `ECS`, `CDK`, `Cognito`, and `API Gateway`
-- Delivered React applications and internal dashboards using `React 18`, `TypeScript`, `Vite`, `TanStack`, `Tailwind CSS`, and `tRPC`
+- Built AI-powered SaaS features for funding intelligence, document parsing, and internal operations across product, platform, and data workflows
+- Shipped scalable backend systems and event-driven automation on `AWS` for ingestion, matching, notifications, and orchestration
+- Delivered React applications and internal dashboards using `React`, `TypeScript`, `Vite`, `TanStack`, `Tailwind CSS`, and `tRPC`
 
 ### `SUNY Research Foundation` | Senior Research Aide
 `Mar 2023 - May 2024` | `Binghamton, NY`
@@ -103,7 +120,7 @@ The custom charts in `generated/` are built from GitHub API data from `2020` onw
 ### `Exathought Technology Pvt Ltd` | Software Engineer
 `Jul 2019 - Jul 2022` | `Bengaluru, India`
 
-- Built 5 MVP web and mobile products using `React.js` and `React Native`
+- Built 5 MVP SaaS and mobile products using `React.js`, `React Native`, and `Flutter`
 - Designed scalable application structures, database schemas, and maintainable engineering workflows
 - Mentored junior engineers and contributed to delivery standards, product quality, and team collaboration
 
@@ -116,13 +133,13 @@ The custom charts in `generated/` are built from GitHub API data from `2020` onw
 `OpenAI` `Claude` `LangChain` `LangGraph` `Pinecone` `Langfuse` `RAG` `Prompt Engineering` `Semantic Search` `OCR` `ETL` `Apache Airflow` `Pandas` `NumPy`
 
 **Frontend**  
-`React` `React Native` `Next.js` `Vite` `Tailwind CSS` `TanStack Query` `TanStack Table` `TanStack Form` `Zod` `Redux`
+`React` `React Native` `Flutter` `Next.js` `Vite` `Tailwind CSS` `TanStack Query` `TanStack Table` `TanStack Form` `Zod` `Redux`
 
 **Backend and APIs**  
-`Python` `FastAPI` `Node.js` `Express.js` `tRPC` `REST APIs` `GraphQL` `PostgreSQL` `MySQL` `MongoDB` `DynamoDB` `BigQuery`
+`Python` `Node.js` `Express.js` `Django` `tRPC` `REST APIs` `GraphQL` `PostgreSQL` `MySQL` `MongoDB` `DynamoDB` `BigQuery` `Elasticsearch`
 
 **Cloud and DevOps**  
-`AWS Lambda` `ECS` `CDK` `SQS` `Cognito` `API Gateway` `CloudWatch` `IAM` `CloudFront` `Docker` `GitHub Actions` `Jenkins` `CI/CD`
+`AWS Lambda` `ECS` `CDK` `SQS` `Cognito` `API Gateway` `CloudWatch` `IAM` `CloudFront` `Docker` `GitHub Actions` `Jenkins` `CI/CD` `Firebase`
 
 **Testing and Quality**  
 `Playwright` `Pytest` `Jest` `Vitest` `JUnit` `MyPy` `TDD`
@@ -134,14 +151,6 @@ Master's in Computer Science | `Aug 2022 - May 2024`
 
 **JNN College of Engineering, Shivamogga**  
 Bachelor's in Computer Science | `Aug 2015 - Jun 2019`
-
-## Career Timeline
-
-- `2020` Started building GitHub activity on `yashaswidhasarali`
-- `2022 - 2024` Master's in Computer Science at Binghamton University
-- `2022 - 2023` Graduate Teaching Assistant at Binghamton University
-- `2023 - 2024` Senior Research Aide at SUNY Research Foundation
-- `2023 - Present` Full Stack Engineer at Grantify
 
 ## Connect
 

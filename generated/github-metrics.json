@@ -1,5 +1,6 @@
 {
   "username": "yashaswidhasarali",
-  "generated_at": "2026-04-01T23:52:04.285902+00:00",
-  "status": "waiting_for_github_token"
+  "generated_at": "2026-04-02T00:14:37.836361+00:00",
+  "status": "waiting_for_github_token",
+  "message": "Add PROFILE_GH_TOKEN as a GitHub Actions secret, then rerun the workflow."
 }
