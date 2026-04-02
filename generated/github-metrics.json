@@ -1,5 +1,58 @@
 {
   "username": "yashaswidhasarali",
-  "generated_at": "2026-04-01T23:52:04.285902+00:00",
-  "status": "waiting_for_github_token"
+  "generated_at": "2026-04-02T00:09:33.904381+00:00",
+  "from_year": 2020,
+  "to_year": 2026,
+  "repo_commit_counts": {
+    "yashaswidhasarali/yashaswidhasarali": 23,
+    "yashaswidhasarali/Image_Generation_with_Probabilistic_Diffusion_Models": 2,
+    "yashaswidhasarali/NT-algorithms": 1,
+    "yashaswidhasarali/pixtract": 1
+  },
+  "yearly_contributions": {
+    "2020": 161,
+    "2021": 279,
+    "2022": 163,
+    "2023": 134,
+    "2024": 35,
+    "2025": 117,
+    "2026": 140
+  },
+  "languages_weighted_by_commit_activity": [
+    {
+      "language": "Python",
+      "score": 23.6444
+    },
+    {
+      "language": "Jupyter Notebook",
+      "score": 2.0
+    },
+    {
+      "language": "Java",
+      "score": 0.4667
+    },
+    {
+      "language": "Vue",
+      "score": 0.445
+    },
+    {
+      "language": "TypeScript",
+      "score": 0.4216
+    },
+    {
+      "language": "HTML",
+      "score": 0.0185
+    },
+    {
+      "language": "JavaScript",
+      "score": 0.0036
+    }
+  ],
+  "methodology": {
+    "description": "Repo language bytes are weighted by commit contribution counts per repository.",
+    "notes": [
+      "This is an approximation, not exact changed lines by language.",
+      "Private repositories are included only when the token can access them."
+    ]
+  }
 }

@@ -1,6 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img">
-<rect width="1200" height="320" rx="24" fill="#0d1117"/>
-<text x="56" y="96" fill="#e6edf3" font-size="36" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="700">Contribution totals by year</text>
-<text x="56" y="150" fill="#8b949e" font-size="22" font-family="ui-sans-serif, system-ui, sans-serif">A GitHub token is required before real metrics can be generated.</text>
-<text x="56" y="210" fill="#58a6ff" font-size="20" font-family="ui-sans-serif, system-ui, sans-serif">Run scripts/generate_github_metrics.py with GITHUB_TOKEN set.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img">
+<rect width="1200" height="360" rx="24" fill="#0d1117"/>
+<text x="70" y="58" fill="#e6edf3" font-size="34" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="700">Contribution totals by year</text>
+<text x="70" y="90" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">@yashaswidhasarali | GitHub contributionsCollection from 2020 onward</text>
+<line x1="70" y1="300" x2="1130" y2="300" stroke="#30363d" stroke-width="1"/>
+<rect x="70" y="196.13" width="84" height="103.87" rx="10" fill="#1f6feb"/>
+<text x="112.0" y="186.13" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">161</text>
+<text x="112.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2020</text>
+<rect x="194" y="120.00" width="84" height="180.00" rx="10" fill="#2ea043"/>
+<text x="236.0" y="110.00" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">279</text>
+<text x="236.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2021</text>
+<rect x="318" y="194.84" width="84" height="105.16" rx="10" fill="#a371f7"/>
+<text x="360.0" y="184.84" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">163</text>
+<text x="360.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2022</text>
+<rect x="442" y="213.55" width="84" height="86.45" rx="10" fill="#db6d28"/>
+<text x="484.0" y="203.55" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">134</text>
+<text x="484.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2023</text>
+<rect x="566" y="277.42" width="84" height="22.58" rx="10" fill="#d29922"/>
+<text x="608.0" y="267.42" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">35</text>
+<text x="608.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2024</text>
+<rect x="690" y="224.52" width="84" height="75.48" rx="10" fill="#bf3989"/>
+<text x="732.0" y="214.52" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">117</text>
+<text x="732.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2025</text>
+<rect x="814" y="209.68" width="84" height="90.32" rx="10" fill="#58a6ff"/>
+<text x="856.0" y="199.68" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">140</text>
+<text x="856.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2026</text>
 </svg>
