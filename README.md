@@ -1,5 +1,5 @@
 <h1 align="center">Yashaswi Hasarali</h1>
-<h3 align="center">AI Engineer | Full Stack Product Engineer for SaaS Platforms</h3>
+<h3 align="center">AI Engineer | Full Stack Product Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/yashaswidhasarali">
@@ -18,26 +18,26 @@
 </p>
 
 <p align="center">
-  I build AI-powered SaaS products with <strong>LLM</strong>, <strong>LangGraph</strong>, <strong>Python</strong>, <strong>React</strong>, and <strong>AWS</strong>.
+  I build AI-powered products and intelligent features with <strong>LLM</strong>, <strong>LangGraph</strong>, <strong>Python</strong>, <strong>React</strong>, and <strong>AWS</strong>.
 </p>
 
 ## At a Glance
 
-- 5+ years building AI-powered SaaS products, MVPs, internal tools, and customer-facing platforms
+- 5+ years building AI-powered products, MVPs, internal tools, and customer-facing web/mobile applications
 - Core contributor at `Grantify` across funding intelligence, onboarding flows, dashboards, and automation
 - Strong across product engineering, backend systems, data workflows, and LLM application development
 
 ## What I Work On
 
-- AI modules and intelligent product features for SaaS platforms
-- Full-stack SaaS products and internal dashboards
+- AI modules and intelligent product features
+- Full-stack web applications, mobile applications, and internal dashboards
 - AI-assisted user experiences and workflow automation
 - Scalable backend systems on AWS
 - Data ingestion, matching, and intelligence platforms
 
 ## Highlights
 
-- Built AI modules for production SaaS products using `LangChain`, `LangGraph`, `OpenAI`, and `Pinecone`, including semantic retrieval, intelligent parsing, and context-aware answers across 12+ file formats
+- Built AI modules for production products using `LangChain`, `LangGraph`, `OpenAI`, and `Pinecone`, including semantic retrieval, intelligent parsing, and context-aware answers across 12+ file formats
 - Shipped AI-powered workflows on `AWS` with queue-based processing and serverless orchestration for scalable product experiences
 - Led prompt engineering and model iteration for live AI features, improving answer quality and reducing hallucinations through benchmark-driven evaluation
 - Integrated `Langfuse` for observability, prompt versioning, and faster iteration on customer-facing AI systems
@@ -89,7 +89,7 @@
 ### <img src="./icons/grantify.png" alt="Grantify logo" width="28" height="28" /> `Grantify` | Full Stack Engineer
 `May 2023 - Present` | `San Jose, CA`
 
-- Built AI modules for production SaaS products using `LangChain`, `LangGraph`, `OpenAI`, and `Pinecone`, enabling intelligent parsing, semantic retrieval, and context-aware answers across 12+ file formats
+- Built AI modules for production products using `LangChain`, `LangGraph`, `OpenAI`, and `Pinecone`, enabling intelligent parsing, semantic retrieval, and context-aware answers across 12+ file formats
 - Shipped serverless AI workflows on `AWS Lambda` with `SQS`-driven bulk processing, queue-based orchestration, and scalable document-processing pipelines
 - Led prompt engineering and model iteration for live AI features, improving answer quality and reducing hallucinations through benchmark-driven evaluation on real customer datasets
 - Integrated `Langfuse` for end-to-end observability, prompt versioning, trace monitoring, and cost tracking across production AI systems
@@ -119,7 +119,7 @@
 ### <img src="./icons/exathought.png" alt="Exathought logo" width="28" height="28" /> `Exathought Technology Pvt Ltd` | Software Engineer
 `Jul 2019 - Jul 2022` | `Bengaluru, India`
 
-- Built 5 MVP SaaS and mobile products using `React.js`, `React Native`, and `Flutter`, helping turn startup concepts into usable customer-facing applications
+- Built 5 MVP web and mobile products using `React.js`, `React Native`, and `Flutter`, helping turn startup concepts into usable customer-facing applications
 - Architected product structures and database schemas aligned with industry standards for scalable, secure, and maintainable software delivery
 - Designed and optimized infrastructure and routing approaches to improve application performance, reliability, and overall user experience
 - Implemented advanced application features and algorithms that improved responsiveness, stability, and product usability across web and mobile builds
@@ -184,7 +184,7 @@
       <img src="./icons/grantify.png" alt="Grantify logo" width="96" />
     </td>
     <td valign="top">
-      <strong>Funding Services</strong> · SaaS application for finding and matching funding opportunities<br/>
+      <strong>Funding Services</strong> · Product for finding and matching funding opportunities<br/>
       Helps users discover relevant funding opportunities and match against business context.<br/>
       <code>OpenAI</code> <code>Perplexity API</code> <code>React</code> <code>Node.js</code> <code>Python</code> <code>AWS</code>
     </td>
