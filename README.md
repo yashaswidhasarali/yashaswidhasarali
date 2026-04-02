@@ -48,31 +48,45 @@
 
 ## Experience
 
-### `Grantify` | Full Stack Engineer
+### <img src="./icons/grantify.png" alt="Grantify logo" width="28" height="28" /> `Grantify` | Full Stack Engineer
 `May 2023 - Present` | `San Jose, CA`
 
-- Built AI-powered SaaS features for funding intelligence, document parsing, and internal operations across product, platform, and data workflows
-- Shipped scalable backend systems and event-driven automation on `AWS` for ingestion, matching, notifications, and orchestration
-- Delivered React applications and internal dashboards using `React`, `TypeScript`, `Vite`, `TanStack`, `Tailwind CSS`, and `tRPC`
+- Built AI modules for production SaaS products using `LangChain`, `LangGraph`, `OpenAI`, and `Pinecone`, enabling intelligent parsing, semantic retrieval, and context-aware answers across 12+ file formats
+- Shipped serverless AI workflows on `AWS Lambda` with `SQS`-driven bulk processing, queue-based orchestration, and scalable document-processing pipelines
+- Led prompt engineering and model iteration for live AI features, improving answer quality and reducing hallucinations through benchmark-driven evaluation on real customer datasets
+- Integrated `Langfuse` for end-to-end observability, prompt versioning, trace monitoring, and cost tracking across production AI systems
+- Built AI-assisted writing and transcription workflows using `OpenAI` and `AssemblyAI` for real customer-facing product experiences
+- Contributed to a funding intelligence platform that combined backend services, LLM scoring, business rules, and product UX to rank relevant opportunities
+- Developed ingestion and automation pipelines with scraping, normalization, deduplication, change analysis, and downstream alerting workflows
+- Delivered customer onboarding, company and project profiling, internal sales tooling, dashboards, and authenticated product experiences using `React`, `TypeScript`, `Vite`, `TanStack`, `Tailwind CSS`, and `tRPC`
 
-### `SUNY Research Foundation` | Senior Research Aide
+### <img src="./icons/bingamton.png" alt="Binghamton logo" width="28" height="28" /> `SUNY Research Foundation` | Senior Research Aide
 `Mar 2023 - May 2024` | `Binghamton, NY`
 
-- Developed and maintained data acquisition and processing workflows using `Bonsai` and connected hardware systems
-- Supported reliable data capture, transformation, validation, and reproducibility for downstream analysis
+- Utilized `Bonsai` to acquire and process data from connected hardware devices, enabling real-time capture of behavioral measures and derived quantitative metrics
+- Developed and maintained data acquisition workflows to ensure reliable, continuous, and synchronized recording across multiple data sources
+- Implemented data processing pipelines that transformed raw device outputs into structured datasets suitable for downstream statistical analysis
+- Ensured data integrity through validation, quality checks, and troubleshooting of device and software configurations
+- Contributed to research infrastructure by integrating diverse devices into a unified data-capture framework and documenting processes for reproducibility
 
-### `Binghamton University` | Graduate Teaching Assistant
+### <img src="./icons/bingamton.png" alt="Binghamton logo" width="28" height="28" /> `Binghamton University` | Graduate Teaching Assistant
 `Sep 2022 - May 2023` | `Binghamton, NY`
 
-- Guided students in Python programming, debugging, and problem solving
-- Supported course delivery, grading, office hours, and technical feedback for a class of 70 students
+- Supported and guided undergraduate and graduate students in `Essentials of Programming - Python`, reinforcing core programming concepts through assignments and lecture materials
+- Assisted in developing, clarifying, and presenting course content covering Python syntax, data structures, and problem-solving techniques
+- Held regular office hours to provide one-on-one and small-group support for debugging, assignments, and conceptual questions
+- Evaluated assignments, projects, and exams for a cohort of 70 students while providing detailed feedback on code quality, style, and efficiency
+- Monitored student performance and contributed to an organized workflow for grading, course records, and timely reporting of results
 
-### `Exathought Technology Pvt Ltd` | Software Engineer
+### <img src="./icons/exathought.png" alt="Exathought logo" width="28" height="28" /> `Exathought Technology Pvt Ltd` | Software Engineer
 `Jul 2019 - Jul 2022` | `Bengaluru, India`
 
-- Built 5 MVP SaaS and mobile products using `React.js`, `React Native`, and `Flutter`
-- Designed scalable application structures, database schemas, and maintainable engineering workflows
-- Mentored junior engineers and contributed to delivery standards, product quality, and team collaboration
+- Built 5 MVP SaaS and mobile products using `React.js`, `React Native`, and `Flutter`, helping turn startup concepts into usable customer-facing applications
+- Architected product structures and database schemas aligned with industry standards for scalable, secure, and maintainable software delivery
+- Designed and optimized infrastructure and routing approaches to improve application performance, reliability, and overall user experience
+- Implemented advanced application features and algorithms that improved responsiveness, stability, and product usability across web and mobile builds
+- Mentored junior engineers, promoted code quality and collaborative problem-solving, and contributed to stronger delivery standards across the team
+- Continuously evaluated emerging tools and frameworks and integrated relevant innovations into product engineering and platform workflows
 
 ## GitHub Analytics
 
