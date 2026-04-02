@@ -53,8 +53,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashaswidhasarali&theme=github_dark" alt="GitHub stats" width="47%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashaswidhasarali&theme=github_dark" alt="Repos per language" width="47%" />
+  <img src="./generated/github-languages-by-commit.svg" alt="Languages weighted by commit activity" width="47%" />
 </p>
 
 <p align="center">
@@ -69,21 +69,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yashaswidhasarali&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" width="95%" />
 </p>
 
-## Contribution Timeline
+## Contribution Note
 
-<details>
-  <summary><strong>Year-by-year contribution cards from 2020 to current</strong></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashaswidhasarali&theme=github_dark&year=2020" alt="GitHub contributions 2020" width="95%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashaswidhasarali&theme=github_dark&year=2021" alt="GitHub contributions 2021" width="95%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashaswidhasarali&theme=github_dark&year=2022" alt="GitHub contributions 2022" width="95%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashaswidhasarali&theme=github_dark&year=2023" alt="GitHub contributions 2023" width="95%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashaswidhasarali&theme=github_dark&year=2024" alt="GitHub contributions 2024" width="95%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashaswidhasarali&theme=github_dark&year=2025" alt="GitHub contributions 2025" width="95%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashaswidhasarali&theme=github_dark&year=2026" alt="GitHub contributions 2026" width="95%" />
-  </p>
-</details>
+The public GitHub widgets above are useful for profile-level activity, but the commit-language widget was replaced with a custom chart generated from the GitHub API because the public version was not reliable for this profile.
+
+<p align="center">
+  <img src="./generated/github-contributions-by-year.svg" alt="Contribution totals by year" width="95%" />
+</p>
+
+The custom charts in `generated/` are built from GitHub API data from `2020` onward and can include org/private repository activity when the token has access.
 
 ## Experience
 

@@ -1,0 +1,34 @@
+name: Generate GitHub Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate metrics
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_GH_TOKEN }}
+          GITHUB_USERNAME: yashaswidhasarali
+        run: python scripts/generate_github_metrics.py
+
+      - name: Commit generated artifacts
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh GitHub metrics"
+          file_pattern: generated/*

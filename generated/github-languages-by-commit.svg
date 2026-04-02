@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img">
+<rect width="1200" height="320" rx="24" fill="#0d1117"/>
+<text x="56" y="96" fill="#e6edf3" font-size="36" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="700">Languages weighted by commit activity</text>
+<text x="56" y="150" fill="#8b949e" font-size="22" font-family="ui-sans-serif, system-ui, sans-serif">A GitHub token is required before real metrics can be generated.</text>
+<text x="56" y="210" fill="#58a6ff" font-size="20" font-family="ui-sans-serif, system-ui, sans-serif">Run scripts/generate_github_metrics.py with GITHUB_TOKEN set.</text>
+</svg>
