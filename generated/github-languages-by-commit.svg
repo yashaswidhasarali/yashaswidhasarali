@@ -6,30 +6,30 @@
 <text x="80" y="100" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">Python</text>
 <rect x="296" y="84" width="520" height="14" rx="7" fill="#21262d"/>
 <rect x="296" y="84" width="520.00" height="14" rx="7" fill="#58a6ff"/>
-<text x="856" y="100" text-anchor="end" fill="#c9d1d9" font-size="17" font-family="ui-sans-serif, system-ui, sans-serif">91.8%</text>
+<text x="856" y="100" text-anchor="end" fill="#c9d1d9" font-size="17" font-family="ui-sans-serif, system-ui, sans-serif">92.0%</text>
 <circle cx="64" cy="128" r="6" fill="#3fb950"/>
 <text x="80" y="134" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">Jupyter Notebook</text>
 <rect x="296" y="118" width="520" height="14" rx="7" fill="#21262d"/>
-<rect x="296" y="118" width="27.63" height="14" rx="7" fill="#3fb950"/>
-<text x="856" y="134" text-anchor="end" fill="#c9d1d9" font-size="17" font-family="ui-sans-serif, system-ui, sans-serif">4.9%</text>
+<rect x="296" y="118" width="26.91" height="14" rx="7" fill="#3fb950"/>
+<text x="856" y="134" text-anchor="end" fill="#c9d1d9" font-size="17" font-family="ui-sans-serif, system-ui, sans-serif">4.8%</text>
 <circle cx="64" cy="162" r="6" fill="#f78166"/>
 <text x="80" y="168" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">Java</text>
 <rect x="296" y="152" width="520" height="14" rx="7" fill="#21262d"/>
-<rect x="296" y="152" width="6.45" height="14" rx="7" fill="#f78166"/>
+<rect x="296" y="152" width="6.28" height="14" rx="7" fill="#f78166"/>
 <text x="856" y="168" text-anchor="end" fill="#c9d1d9" font-size="17" font-family="ui-sans-serif, system-ui, sans-serif">1.1%</text>
 <circle cx="64" cy="196" r="6" fill="#d2a8ff"/>
 <text x="80" y="202" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">Vue</text>
 <rect x="296" y="186" width="520" height="14" rx="7" fill="#21262d"/>
-<rect x="296" y="186" width="6.15" height="14" rx="7" fill="#d2a8ff"/>
+<rect x="296" y="186" width="5.99" height="14" rx="7" fill="#d2a8ff"/>
 <text x="856" y="202" text-anchor="end" fill="#c9d1d9" font-size="17" font-family="ui-sans-serif, system-ui, sans-serif">1.1%</text>
 <circle cx="64" cy="230" r="6" fill="#ffa657"/>
 <text x="80" y="236" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">TypeScript</text>
 <rect x="296" y="220" width="520" height="14" rx="7" fill="#21262d"/>
-<rect x="296" y="220" width="5.82" height="14" rx="7" fill="#ffa657"/>
+<rect x="296" y="220" width="5.67" height="14" rx="7" fill="#ffa657"/>
 <text x="856" y="236" text-anchor="end" fill="#c9d1d9" font-size="17" font-family="ui-sans-serif, system-ui, sans-serif">1.0%</text>
 <circle cx="64" cy="264" r="6" fill="#79c0ff"/>
 <text x="80" y="270" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">HTML</text>
 <rect x="296" y="254" width="520" height="14" rx="7" fill="#21262d"/>
-<rect x="296" y="254" width="0.26" height="14" rx="7" fill="#79c0ff"/>
+<rect x="296" y="254" width="0.25" height="14" rx="7" fill="#79c0ff"/>
 <text x="856" y="270" text-anchor="end" fill="#c9d1d9" font-size="17" font-family="ui-sans-serif, system-ui, sans-serif">0.0%</text>
 </svg>
