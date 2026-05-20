@@ -3,25 +3,25 @@
 <text x="70" y="58" fill="#e6edf3" font-size="34" font-family="ui-sans-serif, system-ui, sans-serif" font-weight="700">Contribution totals by year</text>
 <text x="70" y="90" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">@yashaswidhasarali | GitHub contributionsCollection from 2020 onward</text>
 <line x1="70" y1="300" x2="1130" y2="300" stroke="#30363d" stroke-width="1"/>
-<rect x="70" y="213.23" width="84" height="86.77" rx="10" fill="#1f6feb"/>
-<text x="112.0" y="203.23" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">161</text>
+<rect x="70" y="213.49" width="84" height="86.51" rx="10" fill="#1f6feb"/>
+<text x="112.0" y="203.49" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">161</text>
 <text x="112.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2020</text>
-<rect x="194" y="149.64" width="84" height="150.36" rx="10" fill="#2ea043"/>
-<text x="236.0" y="139.64" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">279</text>
+<rect x="194" y="150.09" width="84" height="149.91" rx="10" fill="#2ea043"/>
+<text x="236.0" y="140.09" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">279</text>
 <text x="236.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2021</text>
-<rect x="318" y="212.16" width="84" height="87.84" rx="10" fill="#a371f7"/>
-<text x="360.0" y="202.16" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">163</text>
+<rect x="318" y="212.42" width="84" height="87.58" rx="10" fill="#a371f7"/>
+<text x="360.0" y="202.42" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">163</text>
 <text x="360.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2022</text>
-<rect x="442" y="227.78" width="84" height="72.22" rx="10" fill="#db6d28"/>
-<text x="484.0" y="217.78" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">134</text>
+<rect x="442" y="228.00" width="84" height="72.00" rx="10" fill="#db6d28"/>
+<text x="484.0" y="218.00" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">134</text>
 <text x="484.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2023</text>
-<rect x="566" y="281.14" width="84" height="18.86" rx="10" fill="#d29922"/>
-<text x="608.0" y="271.14" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">35</text>
+<rect x="566" y="281.19" width="84" height="18.81" rx="10" fill="#d29922"/>
+<text x="608.0" y="271.19" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">35</text>
 <text x="608.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2024</text>
-<rect x="690" y="236.95" width="84" height="63.05" rx="10" fill="#bf3989"/>
-<text x="732.0" y="226.95" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">117</text>
+<rect x="690" y="237.13" width="84" height="62.87" rx="10" fill="#bf3989"/>
+<text x="732.0" y="227.13" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">117</text>
 <text x="732.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2025</text>
 <rect x="814" y="120.00" width="84" height="180.00" rx="10" fill="#58a6ff"/>
-<text x="856.0" y="110.00" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">334</text>
+<text x="856.0" y="110.00" text-anchor="middle" fill="#c9d1d9" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">335</text>
 <text x="856.0" y="328" text-anchor="middle" fill="#8b949e" font-size="18" font-family="ui-sans-serif, system-ui, sans-serif">2026</text>
 </svg>
