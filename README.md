@@ -14,10 +14,6 @@
 </p>
 
 <p align="center">
-  <strong>San Jose, CA</strong> • Open to software engineering, full-stack, platform, and AI application roles
-</p>
-
-<p align="center">
   I build AI-powered products and intelligent features with <strong>LLM</strong>, <strong>LangGraph</strong>, <strong>Python</strong>, <strong>React</strong>, and <strong>AWS</strong>.
 </p>
 
